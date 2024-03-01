@@ -1,0 +1,6 @@
+event_status_code,event_status
+PEN,Pending
+CON,Confirmed
+CMP,Completed
+CLD,Cancelled
+INV,Invalid
